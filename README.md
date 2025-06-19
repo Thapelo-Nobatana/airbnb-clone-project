@@ -75,6 +75,24 @@ A user-friendly design is crucial in a booking system to reduce friction, improv
 
 Identifying design properties from a mockup ensures that the final application remains visually consistent and aligned with the original design vision. By understanding the specific color styles, font choices, and typographic hierarchy, developers can accurately implement UI components that maintain a professional look and enhance user experience. This attention to detail builds user trust, improves accessibility, and contributes to a cohesive interface across the entire product.
 
+## 👥 Project Roles and Responsibilities
+
+Clearly defining roles within a project team ensures effective collaboration, accountability, and smooth delivery of tasks. Below are the key roles involved in this project and their core responsibilities.
+
+| **Role**            | **Responsibilities**                                                                                  |
+|---------------------|--------------------------------------------------------------------------------------------------------|
+| **Project Manager** | Oversees the overall project timeline, coordinates between team members, manages deliverables, and ensures goals are met on schedule. |
+| **Frontend Developers** | Build user interfaces using HTML, CSS, and JavaScript (React). They ensure responsive design, component reusability, and smooth user experience. |
+| **Backend Developers**  | Develop RESTful APIs, manage database logic, handle server-side operations, and implement business logic to support frontend features. |
+| **Designers**       | Use Figma to create mockups, maintain visual consistency, ensure a strong user experience, and align the design with user needs and goals. |
+| **QA/Testers**      | Write and run test cases, perform functional and integration testing, identify bugs, and ensure the product meets quality standards. |
+| **DevOps Engineers**| Set up deployment pipelines, manage server environments, ensure CI/CD processes are in place, and monitor the application's performance. |
+| **Product Owner**   | Defines the product vision, gathers and prioritizes requirements, represents stakeholders, and ensures the team builds the right product. |
+| **Scrum Master**    | Facilitates agile practices, leads stand-ups and sprint planning, removes blockers, and ensures the team follows scrum processes. |
+
+### 🤝 Contribution to Project Success
+
+Each role contributes to the project's success by bringing in specific expertise and ownership over different parts of the development cycle. Well-defined responsibilities help teams work efficiently, reduce bottlenecks, and deliver high-quality software that meets user needs and business goals.
 
 ## 🧩 UI Component Patterns
 
