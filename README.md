@@ -131,3 +131,6 @@ All UI components will be:
 - Built using semantic HTML and accessible markup
 - Styled consistently using a shared design system
 - Responsive across all screen sizes
+  
+## 👥 Contributors
+ Thapelo Nobatana
