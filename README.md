@@ -74,3 +74,42 @@ A user-friendly design is crucial in a booking system to reduce friction, improv
 ### 🧠 Why Design Properties Matter
 
 Identifying design properties from a mockup ensures that the final application remains visually consistent and aligned with the original design vision. By understanding the specific color styles, font choices, and typographic hierarchy, developers can accurately implement UI components that maintain a professional look and enhance user experience. This attention to detail builds user trust, improves accessibility, and contributes to a cohesive interface across the entire product.
+
+
+## 🧩 UI Component Patterns
+
+To ensure consistency, reusability, and scalability in the UI, this project follows a component-based architecture. Below are the core components planned for the Airbnb Clone project:
+
+### 🔼 Navbar
+
+The navigation bar will be a reusable header displayed across the app. It will include:
+- Logo
+- Search bar
+- User navigation (e.g., login/profile dropdown)
+- Mobile-friendly responsive menu
+
+### 🏠 Property Card
+
+This component will represent individual property listings in the grid view. It will contain:
+- Property image
+- Title and location
+- Price per night
+- Rating/review score
+- Favorite (heart) button
+- Fully responsive layout
+
+### 📄 Footer
+
+The footer will provide consistent information at the bottom of every page. It will include:
+- Site navigation links
+- Company/about information
+- Social media icons
+- Copyright
+
+### ✅ Component Strategy
+
+All UI components will be:
+- Designed for reusability across pages
+- Built using semantic HTML and accessible markup
+- Styled consistently using a shared design system
+- Responsive across all screen sizes
